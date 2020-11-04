@@ -10,5 +10,5 @@ When investigating further:
   $48,681 is found to be 50% of the salary range
   $61,758 is 75%
   $129,492 is the max salary
-  Which shows the salary range for the store is skewed toward the lower end, a lot of lower payed employees working for a couple high payed bosses.
+  Which shows the salary range for the store is skewed toward the lower end, a lot of lower paid employees working for a couple high paid bosses.
 ![SalaryRanges](employeeSQL/Salary_ranges.png)
